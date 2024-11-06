@@ -1,4 +1,4 @@
-Berisi penggunaan fungso map libre
+Berisi penggunaan fungsi dari aplikasi map libre
 
 Zoom in - Zoom Out
 
